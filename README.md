@@ -1,5 +1,5 @@
 # 2025Beta
-Repository for Beta Testing of 20254 Software
+Repository for Beta Testing of 2025 Software
 
 >**Software posted here is Beta software for the 2025 season and is not compatible with 2024 software or roboRIO images.**
 
