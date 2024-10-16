@@ -10,5 +10,6 @@ Note that all updated documentation for 2025 changes, new features, etc. can be 
 ## Beta Software Directory
 
 - [WPILib 2025.1.1-Beta-1](https://github.com/wpilibsuite/allwpilib/releases/tag/v2025.1.1-beta-1)
+- [NI Game Tools 25.0.0.6-Beta-1](https://github.com/wpilibsuite/2025Beta/releases/tag/NI_GAME_TOOLS_BETA_1)
 
 ### Vendor Libraries
