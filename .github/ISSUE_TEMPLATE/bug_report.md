@@ -25,6 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information if applicable):**
  - OS: [e.g. Windows 11]
+ - OS Language: [e.g. English, Turkish]
  - Project Information: [In Visual Studio Code, press the WPILib button and choose WPILib: Open Project Information. Press the copy button and paste the data here. If not using VS Code, please include WPILib version, Gradle version, Java version, C++ version (if applicable), and any third party libraries and versions]
 
 **roboRIO (please complete the following information if applicable):**
