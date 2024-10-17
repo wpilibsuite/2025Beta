@@ -13,3 +13,6 @@ Note that all updated documentation for 2025 changes, new features, etc. can be 
 - [NI Game Tools 25.0.0.6-Beta-1](https://github.com/wpilibsuite/2025Beta/releases/tag/NI_GAME_TOOLS_BETA_1)
 
 ### Vendor Libraries
+
+- [NavX 2025.1.1-beta-1](https://github.com/Studica-Robotics/NavX)
+  
