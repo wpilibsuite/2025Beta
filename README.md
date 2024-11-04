@@ -17,3 +17,4 @@ Note that all updated documentation for 2025 changes, new features, etc. can be 
 
 - [Studica 2025.1.1-beta-2](https://github.com/Studica-Robotics/NavX)
 - [Phoenix 25.0.0-beta-2](https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/tag/v25.0.0-beta-2)
+- [ReduxLib 2025.0.0-beta0](https://docs.reduxrobotics.com/reduxlib)
