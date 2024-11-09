@@ -10,9 +10,9 @@
 
 ## Updating firmware
 
-The following firmwares will be available to download and install after updating the Hardware Client:
+The following latest firmwares will be available to download and install after updating the Hardware Client:
 
-* SPARK MAX v25.0.0-prerelease.4
+* SPARK MAX v25.0.0-prerelease.6
 * SPARK Flex v25.0.0-prerelease.4
 
 Changelogs are available in the Hardware Client.
