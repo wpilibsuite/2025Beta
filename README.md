@@ -20,3 +20,9 @@ Note that all updated documentation for 2025 changes, new features, etc. can be 
 - [ReduxLib 2025.0.0-beta0](https://docs.reduxrobotics.com/reduxlib)
 - [REVLib 2025.0.0-beta-2](https://github.com/REVrobotics/REV-Software-Binaries/releases/tag/revlib-2025.0.0-beta-2)
   - [Hardware Client and firmware instructions](REV.md)
+
+### Other
+
+- [PhotonVision 2025.0.0-beta1](https://github.com/PhotonVision/photonvision/releases/tag/v2025.0.0-beta-1)
+- [PathPlanner 2025.0.0-beta4](https://github.com/mjansen4857/pathplanner/releases/tag/v2025.0.0-beta-4)
+- [AdvantageKit 4.0.0-alpha1](https://github.com/Mechanical-Advantage/AdvantageKit/releases/tag/v4.0.0-alpha-1)
