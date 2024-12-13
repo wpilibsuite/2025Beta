@@ -16,7 +16,7 @@ Note that all updated documentation for 2025 changes, new features, etc. can be 
 ### Vendor Libraries
 
 - [Studica 2025.1.1-beta-3](https://github.com/Studica-Robotics/NavX)
-- [Phoenix 25.0.0-beta-3](https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/tag/v25.0.0-beta-3)
+- [Phoenix 25.0.0-beta-4](https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/tag/v25.0.0-beta-4)
 - [ReduxLib 2025.0.0-beta0](https://docs.reduxrobotics.com/reduxlib)
 - [REVLib 2025.0.0-beta-3](https://github.com/REVrobotics/REV-Software-Binaries/releases/tag/revlib-2025.0.0-beta-3)
   - [Hardware Client and firmware instructions](REV.md)
