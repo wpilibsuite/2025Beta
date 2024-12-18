@@ -9,7 +9,7 @@ Note that all updated documentation for 2025 changes, new features, etc. can be 
 
 ## Beta Software Directory
 
-- [WPILib 2025.1.1-Beta-2](https://github.com/wpilibsuite/allwpilib/releases/tag/v2025.1.1-beta-2)
+- [WPILib 2025.1.1-Beta-3](https://github.com/wpilibsuite/allwpilib/releases/tag/v2025.1.1-beta-3)
 - [NI Game Tools 25.0.0.13-Beta-2](https://github.com/wpilibsuite/2025Beta/releases/tag/NI_GAME_TOOLS_BETA_2)
 - [RobotPy 2025.0.0b1](https://robotpy.github.io/2024/10/20/robotpy-2025-beta-available/)
 
