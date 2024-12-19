@@ -1,6 +1,6 @@
 # REV Beta Software
 
-## Updating to REV Hardware Client v1.6.7
+## Updating to REV Hardware Client v1.7.0-frcBeta2025.1
 
   1. Open the current version of the Hardware Client or install it [here](https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.6.6/REV-Hardware-Client-Setup-1.6.6.exe).
   2. Navigate to the "Downloads" tab.
@@ -12,7 +12,7 @@
 
 The following latest firmwares will be available to download and install after updating the Hardware Client:
 
-* SPARK MAX v25.0.0-prerelease.7
-* SPARK Flex v25.0.0-prerelease.7
+* SPARK MAX v25.0.0-prerelease.9
+* SPARK Flex v25.0.0-prerelease.9
 
 Changelogs are available in the Hardware Client.
